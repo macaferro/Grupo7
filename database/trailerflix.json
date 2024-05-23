@@ -1,0 +1,38 @@
+[
+    {
+    "id": 1,
+    "title" : "Avatar: la leyenda de Aang",
+    "cat" : "Fantasia",
+    "act" :	"Zach Tyler Eisen, Mae Whitman, Jack DeSena, Dante Basco, Mako, Michaela Jill Murphy, Dee Bradley Baker",
+    "genero" : "Fantasia",
+    "sinopsis": "esta es la sinopsis",
+    "trailer": ""
+    },
+    {
+    "id": 2,
+    "title" : "Paranoia",
+    "cat" : "Terror",
+    "act" :	"Shia LaBeouf, Sarah Roemer, Aaron Yoo, David Morse, Carrie-Anne Moss. ",
+    "genero" : "psicologico",
+    "sinopsis" : "Desde la muerte de su padre, el joven Kale se ha alejado y ha entristecido más, hasta que debe enfrentarse a un arresto domiciliario. Al sentirse encerrado, él voltea su atención a espiar a sus vecinos, sospechando que uno de ellos es un asesino en serie. Sin embargo, comienza a creer que su imaginación hiperactiva está obteniendo lo mejor de él.",
+    "trailer": "https://www.youtube.com/watch?v=LoemUrP3EKQ"
+    },
+    {
+    "id": 3,
+    "title" : "Barbarian",
+    "cat" : "Terror",
+    "act" :	"Georgina Campbell, Bill Skarsgård y Justin Long. Arnon Milchan",
+    "genero" : "Suspenso",
+    "sinopsis"	: "Una joven que viaja a Detroit para una entrevista de trabajo alquila una casa para pernoctar. Pero cuando llega a altas horas de la noche, descubre que la casa está doblemente reservada y que un extraño hombre ya se está quedando allí. En contra de su buen juicio, decide pasar la noche allí, pero pronto descubre que hay mucho más que temer que un invitado inesperado.",
+    "trailer":	"https://www.youtube.com/watch?v=tlEdCW6lBrc"
+    },
+    {
+    "id": 4,
+    "title": "La Secretaria",
+    "cat": "Drama",
+    "act":	"Maggie Gyllenhaal, James Spader",
+    "genero": "Drama",
+    "sinopsis": "Lee Holloway regresa a casa con su disfuncional familia tras haber estado ingresada en un psiquiátrico. Dispuesta a comenzar una vida nueva, la joven presenta un currículum para el puesto de secretaria en el bufete de abogados de E. Edgard Grey. Pese a no tener experiencia, Grey, un enigmático abogado, decide contratarla. Poco a poco, Lee y Grey inician una curiosa relación cada vez más íntima.",
+    "trailer":	"https://www.youtube.com/watch?v=PXsJbuZw8Mc"
+    }
+]
