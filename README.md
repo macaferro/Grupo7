@@ -36,23 +36,13 @@ Con toda esta información, deberás crear diferentes Endpoint que permitan cons
 🆕 Pull Request
 Por favor utiliza Pull Request y ubicate en tu carpeta para realizar la subida de tu TP. Gracias!
 
-Para las consultas se puede usar en cada ruta las siguiestes opciones basadas en la peliculas elegidas
-/titulo/:title
-- Avatar: la leyenda de Aang
-- Paranoia
-- Barbarian
-- La Secretaria
+Notas:
+- se agrego una funcion normalizestring() para evaluar el caso en el que el parametro tenga una tilde, esa funcion convierte los caracteres con tildes a sus equivalentes sin tilde y de convertir todo a minúsculas y ahi realiza la comparacion. funciona correctamente
+- se personalizaron las devoluciones en el caso que se ingrese: /categoria/gas, /reparto/ahdyabu etc...
 
-/categoria/:cat 
-- Terror
-- Fantasia
-- Drama
 
-/reparto/:act
-- Shia LaBeouf, Sarah Roemer, Aaron Yoo, David Morse, Carrie-Anne Moss
-- Roy Lee y Raphael Margules
-- Georgina Campbell, Bill Skarsgård y Justin Long. Arnon Milchan
-- Maggie Gyllenhaal y James Spader
 
-/trailer/:id
-- 1, 2 , 3, 4
+Integrantes
+- Macarena Ferro
+- Yanina Ferreira
+- Junixza Briceño
