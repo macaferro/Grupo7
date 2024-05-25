@@ -37,9 +37,10 @@ Con toda esta información, deberás crear diferentes Endpoint que permitan cons
 Por favor utiliza Pull Request y ubicate en tu carpeta para realizar la subida de tu TP. Gracias!
 
 Notas:
-- se agrego una funcion normalizestring() para evaluar el caso en el que el parametro tenga una tilde, esa funcion convierte los caracteres con tildes a sus equivalentes sin tilde y de convertir todo a minúsculas y ahi realiza la comparacion. funciona correctamente
-- se personalizaron las devoluciones en el caso que se ingrese: /categoria/gas, /reparto/ahdyabu etc...
-
+- Se agrego una funcion normalizestring() para evaluar el caso en el que el parametro tenga una tilde, esa funcion convierte los caracteres con tildes a sus equivalentes sin tilde y de convertir todo a minúsculas y ahi realiza la comparacion. funciona correctamente
+- Se personalizaron las devoluciones en el caso que se ingrese: /categoria/gas, /reparto/ahdyabu etc...
+- Se agrego un codigo .js simple de cambio de imagen para el home, nos parecio lindo iterar array con el poco conocimiento de js
+- Se agrego un archivo de style para darle onda el home, es un carpeta correspondiente.
 
 
 Integrantes

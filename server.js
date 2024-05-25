@@ -9,7 +9,7 @@ dotenv.config();
 const dataFilePath = process.env.DATA_FILE_PATH;
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Middleware para cargar datos del archivo JSON
+// Carga los datos del archivo JSON
 app.use((req, res, next) => {
   fs.readFile(dataFilePath, 'utf8', (err, data) => {
     if (err) {
@@ -87,7 +87,7 @@ app.get("/trailer/:id", (req, res) => {
   }
 });
 
-// Middleware para manejar errores de ruta no encontrada
+// Manejo error de ruta no encontrada
 app.use((req, res) => {
   res.status(404).json({ error: 'Lo sentimos, no encontramos lo que buscas, intenta de nuevo. ' });
 });
